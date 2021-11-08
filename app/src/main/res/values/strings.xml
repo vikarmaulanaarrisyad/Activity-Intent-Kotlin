@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="tv_activity_move">Selamat Datang di Activity Baru</string>
+    <string name="move_activity_data"><![CDATA[PINDAH ACTVITY & DATA]]></string>
+    <string name="data_diterima">Data diterima:</string>
+    <string name="pindah_activty_obyek"><![CDATA[Pindah Activty & Obyek]]></string>
+    <string name="object_diterima">Object diterima:</string>
+    <string name="pilih_angka_dibawah_ini">Pilih angka dibawah ini !</string>
+    <string name="pilih">Pilih</string>
+    <string name="_200">200</string>
+    <string name="_150">150</string>
+    <string name="_100">100</string>
+    <string name="_50">50</string>
+    <string name="pindah_activity_result"><![CDATA[Pindah Activity & Result]]></string>
+    <string name="hasil_dari_activty">Hasil dari activty</string>
+</resources>
